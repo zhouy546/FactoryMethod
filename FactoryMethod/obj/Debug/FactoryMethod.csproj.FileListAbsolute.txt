@@ -1,6 +1,0 @@
-E:\repo\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
-E:\repo\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
-E:\repo\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
-E:\repo\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
-E:\repo\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
-E:\repo\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
